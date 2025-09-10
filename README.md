@@ -12,11 +12,11 @@ Tenho 26 anos e sou apaixonada por tecnologia e programação. Atualmente estou 
             src="https://custom-icon-badges.demolab.com/github/stars/beatrizgv?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/beatrizgv?tab=followers">
+    <a href="https://github.com/beatrizGermano?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/beatrizgv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/beatrizGermano?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
     <a href="https://www.linkedin.com/in/beatrizgv">
@@ -26,11 +26,11 @@ Tenho 26 anos e sou apaixonada por tecnologia e programação. Atualmente estou 
             src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"
         />
     </a>
-    <a href="https://www.instagram.com/beatrizgv">
+    <a href="https://www.instagram.com/beatrizgvasconcelos">
         <img 
             alt="Instagram" 
             title="Meu Instagram" 
-            src="https://img.shields.io/badge/Instagram-@beatrizgv-purple?style=for-the-badge&logo=instagram"
+            src="https://img.shields.io/badge/Instagram-@beatrizgvasconcelos-purple?style=for-the-badge&logo=instagram"
         />
     </a>
 </p>
